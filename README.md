@@ -32,7 +32,7 @@ The application uses an SQLite database (`bank.db`) with a `users` table:
 ### 1️⃣ **Run the Application**
 
 ```sh
-python bank.py
+python BankingSystem.py
 ```
 
 ## 🏦 Features
